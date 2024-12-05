@@ -1,6 +1,7 @@
 # Prerequisites
 out
 *.d
+map.xml
 
 # Object files
 *.o
